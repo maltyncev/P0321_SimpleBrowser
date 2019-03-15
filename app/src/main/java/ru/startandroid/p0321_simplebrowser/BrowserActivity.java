@@ -8,6 +8,7 @@ import android.webkit.WebViewClient;
 
 public class BrowserActivity extends Activity {
 
+    // 15.03 15:30
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
